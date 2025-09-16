@@ -30,11 +30,14 @@ This project is about Vrinda Store who wants to create an annual sales report fo
 
 
 ## Dataset:
-- <a href="https://github.com/shivanshgupta01/vrinda-store-analysis-excel/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Dataset</a>
+- Data Containing all Information = <a href="https://github.com/shivanshgupta01/vrinda-store-analysis-excel/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Dataset</a>
 
 ## Tools and Technologies:
+
 - Microsoft Exacel (Data Cleaning, Sorting and Filtering)
+
 - Pivot Table (Analyse Data)
+
 - Pivot Chart (Interactive Visualizations)
 
 ## Process:
