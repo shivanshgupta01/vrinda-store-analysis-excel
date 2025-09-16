@@ -4,6 +4,14 @@
 
 ## 📌 Table Of Contents:
 - [Project Overview](https://github.com/shivanshgupta01/vrinda-store-analysis-excel/blob/main/README.md#project-overview)
+- [Business Problems](https://github.com/shivanshgupta01/vrinda-store-analysis-excel/tree/main#business-problems)
+- [Dataset](https://github.com/shivanshgupta01/vrinda-store-analysis-excel/tree/main#dataset)
+- [Tools and Technologies](https://github.com/shivanshgupta01/vrinda-store-analysis-excel/tree/main?tab=readme-ov-file#tools-and-technologies)
+- [Process](https://github.com/shivanshgupta01/vrinda-store-analysis-excel/tree/main?tab=readme-ov-file#process)
+- [Research Questions & Key Findings](https://github.com/shivanshgupta01/vrinda-store-analysis-excel/tree/main?tab=readme-ov-file#research-questions--key-findings)
+- [Dashboard](https://github.com/shivanshgupta01/vrinda-store-analysis-excel/tree/main?tab=readme-ov-file#dashboard)
+- [Final Conclusion](https://github.com/shivanshgupta01/vrinda-store-analysis-excel/tree/main?tab=readme-ov-file#final-conclusion)
+- [Author and Contact](https://github.com/shivanshgupta01/vrinda-store-analysis-excel/tree/main?tab=readme-ov-file#author-and-contact)
 
 
 ***
