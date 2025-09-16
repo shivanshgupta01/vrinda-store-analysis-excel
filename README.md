@@ -1,6 +1,10 @@
 # Vrinda-Store-Data-Analysis (Interactive Dashboards Created Using Microsoft Excel)  
 *Vrinda Store Annual Report built in Excel. Includes dynamic dashboards, pivot tables, sales performance, customer segmentation, and regional insights for better business strategies.*
 
+## Table Of Contents:
+- [Project Objective:](##-project-objective:)
+
+
 ## Project Objective:
 Vrinda Store wants to create an annual sales report for the year 2022. So that, the owner of Vrinda Store can understand their customers and grow more sales in 2023 & 2024.
 
