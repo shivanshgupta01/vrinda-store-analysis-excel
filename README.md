@@ -3,14 +3,12 @@
 
 
 ## 📌 Table Of Contents:
-- [Project Objective](https://github.com/shivanshgupta01/vrinda-store-analysis-excel/blob/main/README.md#project-objective)
+- [Project Overview](https://github.com/shivanshgupta01/vrinda-store-analysis-excel/blob/main/README.md#project-objective)
 
 
-## Project Objective:
-Vrinda Store wants to create an annual sales report for the year 2022. So that, the owner of Vrinda Store can understand their customers and grow more sales in 2023 & 2024.
+## Project Overview:
+This project is about Vrinda Store who wants to create an annual sales report for the year 2022. So that, the owner of Vrinda Store can understand their customers and grow more sales in 2023 & 2024.
 
-## Dataset:
-- <a href="https://github.com/shivanshgupta01/vrinda-store-analysis-excel/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Dataset</a>
 
 ## Questions (KPIs):
 
@@ -31,6 +29,9 @@ Vrinda Store wants to create an annual sales report for the year 2022. So that, 
 - Percentage of Total Orders delivered.
 
 - Dashboard Interaction = <a href="https://github.com/shivanshgupta01/vrinda-store-analysis-excel/blob/main/Vrinda%20Store%20Data%20Analysis%20-%20Dashboard.png">View Dashboard</a>
+
+## Dataset:
+- <a href="https://github.com/shivanshgupta01/vrinda-store-analysis-excel/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Dataset</a>
 
 ## Process:
 
