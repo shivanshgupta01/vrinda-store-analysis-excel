@@ -26,3 +26,7 @@ Vrinda Store wants to create an annual sales report for the year 2022. So that, 
 
 - Data Analysis – Created different worksheets to analyse all the data and then created a Pivot Table.
 - Data Visualisation – After analysing all the data using Pivot Table, I started creating a visual report so that it will be easier for the company to understand all the data visually without changing the worksheets.
+
+## Dashboard:
+<img width="1297" height="532" alt="Vrinda Store Data Analysis - Dashboard" src="https://github.com/user-attachments/assets/d47ef746-8950-4c4a-9805-5652093ea867" />
+
