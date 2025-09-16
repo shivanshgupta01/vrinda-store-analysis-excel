@@ -9,20 +9,20 @@ Vrinda Store wants to create an annual sales report for the year 2022. So that, 
 ## Questions (KPI):
 - Compare the scales and orders using single chart.
 - Which month got the highest sales and orders?
-Who purchased more – Men or Women in 2022?
-List Top 10 states contributing to the sales.
-Relation between age and gender based on number of orders.
-Which channel is contributing to the maximum sales?
-Which is the highest selling category?
-Percentage of Total Orders delivered.
-Dashboard Interaction ----
+- Who purchased more – Men or Women in 2022?
+- List Top 10 states contributing to the sales.
+- Relation between age and gender based on number of orders.
+- Which channel is contributing to the maximum sales?
+- Which is the highest selling category?
+- Percentage of Total Orders delivered.
+- Dashboard Interaction ----
 
 ## Process:
-Data Cleaning - Sorting and Filtering Data. So that we can make it more clean, accessible and easy to read & understand.
-Data Processing – Adding 2 new rows to make the work and analysis easy. 
+- Data Cleaning - Sorting and Filtering Data. So that we can make it more clean, accessible and easy to read & understand.
+- Data Processing – Adding 2 new rows to make the work and analysis easy. 
 1.	Month Row = To filter down all the months from date column.
 2.	Age Group Row = Used IF command to narrow down the age group of peoples (0 to 25 = Teenagers, 
 26 to 50 = Adults and Rest Seniors)
 
-Data Analysis – Created different worksheets to analyse all the data and then created a Pivot Table.
-Data Visualisation – After analysing all the data using Pivot Table, I started creating a visual report so that it will be easier for the company to understand all the data visually without changing the worksheets.
+- Data Analysis – Created different worksheets to analyse all the data and then created a Pivot Table.
+- Data Visualisation – After analysing all the data using Pivot Table, I started creating a visual report so that it will be easier for the company to understand all the data visually without changing the worksheets.
