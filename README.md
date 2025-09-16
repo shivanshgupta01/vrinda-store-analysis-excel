@@ -1,8 +1,9 @@
 # Vrinda-Store-Data-Analysis (Interactive Dashboards Created Using Microsoft Excel)  
 *Vrinda Store Annual Report built in Excel. Includes dynamic dashboards, pivot tables, sales performance, customer segmentation, and regional insights for better business strategies.*
 
-## Table Of Contents:
-- [Project Objective:](##-project-objective:)
+
+## 📌 Table Of Contents:
+- [Project Objective](https://github.com/shivanshgupta01/vrinda-store-analysis-excel/blob/main/README.md#project-objective)
 
 
 ## Project Objective:
