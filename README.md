@@ -15,13 +15,13 @@ Vrinda Store wants to create an annual sales report for the year 2022. So that, 
 - Which channel is contributing to the maximum sales?
 - Which is the highest selling category?
 - Percentage of Total Orders delivered.
-- Dashboard Interaction ----
+- Dashboard Interaction = <a href="https://github.com/shivanshgupta01/vrinda-store-analysis-excel/blob/main/Vrinda%20Store%20Data%20Analysis%20-%20Dashboard.png">View Dashboard</a>
 
 ## Process:
 - Data Cleaning - Sorting and Filtering Data. So that we can make it more clean, accessible and easy to read & understand.
 - Data Processing – Adding 2 new rows to make the work and analysis easy. 
-1.	Month Row = To filter down all the months from date column.
-2.	Age Group Row = Used IF command to narrow down the age group of peoples (0 to 25 = Teenagers, 
+  1.	Month Row = To filter down all the months from date column.
+  2.	Age Group Row = Used IF command to narrow down the age group of peoples (0 to 25 = Teenagers, 
 26 to 50 = Adults and Rest Seniors)
 
 - Data Analysis – Created different worksheets to analyse all the data and then created a Pivot Table.
