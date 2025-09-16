@@ -55,3 +55,6 @@ Vrinda Store wants to create an annual sales report for the year 2022. So that, 
 
 - Most of the products are getting delivered (~90%).
 
+
+## Conclusion:
+To improve the sales of Vrinda Store in 2023 & 2024, a strategic marketing plan should be made to focus on the women aged between 25-49 years and mainly who are residing in Maharashtra, Karnataka, Uttar Pradesh, Telangana, and Tamil Nadu. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
