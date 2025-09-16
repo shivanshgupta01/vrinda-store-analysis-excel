@@ -3,7 +3,7 @@
 
 
 ## 📌 Table Of Contents:
-- [Project Overview](https://github.com/shivanshgupta01/vrinda-store-analysis-excel/blob/main/README.md#project-objective)
+- [Project Overview](https://github.com/shivanshgupta01/vrinda-store-analysis-excel/blob/main/README.md#project-overview)
 
 
 ## Project Overview:
