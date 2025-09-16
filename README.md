@@ -65,6 +65,6 @@ Focusing on this demographic and regional strategy will allow Vrinda Store to ex
 
 ## Author and Contact:
 ### Shivansh Gupta
-CA Inter | Data Analyst
-       📧Email: shivanshpocket@gmail.com
-       <a href=”https://www.linkedin.com/in/shivanshfinance”>LinkedIn</a>
+CA Inter | Data Analyst  
+       📧Email: shivanshpocket@gmail.com  
+       <a href="https://www.linkedin.com/in/shivanshfinance">LinkedIn</a>
