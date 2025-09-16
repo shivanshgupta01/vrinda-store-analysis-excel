@@ -7,6 +7,7 @@ Vrinda Store wants to create an annual sales report for the year 2022. So that, 
 - <a href="https://github.com/shivanshgupta01/vrinda-store-analysis-excel/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Dataset</a>
 
 ## Questions (KPIs):
+
 - Compare the scales and orders using single chart.
 
 - Which month got the highest sales and orders?
@@ -26,6 +27,7 @@ Vrinda Store wants to create an annual sales report for the year 2022. So that, 
 - Dashboard Interaction = <a href="https://github.com/shivanshgupta01/vrinda-store-analysis-excel/blob/main/Vrinda%20Store%20Data%20Analysis%20-%20Dashboard.png">View Dashboard</a>
 
 ## Process:
+
 - Data Cleaning - Sorting and Filtering Data. So that we can make it more clean, accessible and easy to read & understand.
 
 - Data Processing – Adding 2 new rows to make the work and analysis easy. 
@@ -40,4 +42,16 @@ Vrinda Store wants to create an annual sales report for the year 2022. So that, 
 
 ## Dashboard:
 <img width="1297" height="532" alt="Vrinda Store Data Analysis - Dashboard" src="https://github.com/user-attachments/assets/d47ef746-8950-4c4a-9805-5652093ea867" />
+
+## Project Key Insights:
+
+- Woman customers are more likely to buy products compared to men (~65%).
+
+- The States of Maharashtra, Karnataka, Uttar Pradesh, Telangana, and Tamil Nadu are the top 5 product buyers.
+
+- The Adult age group (25-50 years) is max contributing (~50%) and buys most of the products.
+
+- Amazon, Flipkart and Myntra are the top 3 channels from where the customers are buying products.
+
+- Most of the products are getting delivered (~90%).
 
